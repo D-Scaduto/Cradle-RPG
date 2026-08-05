@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "How_To_Play.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "How_To_Play"
             }
           }
         ]
@@ -127,41 +127,12 @@
             }
           },
           {
-            "id": "99793f0ad6161c7e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "24d9b3b93cc4617e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "69bab8fddbc8e384",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "How_To_Play.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +140,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "88e7ab51435cf848",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,37 +166,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "640989ccd6aecd37",
+  "active": "69bab8fddbc8e384",
   "lastOpenFiles": [
+    "Ailments.md",
+    "Advancement.md",
+    "README.md",
+    "White_Fox.md",
     "Todo.md",
-    "Welcome to Cradle RPG.md",
     "Techniques.md",
     "Soulfire.md",
+    "Sandviper.md",
     "Paths.md",
     "Madra.md",
+    "Life_Force.md",
+    "Level_Difference_Modifier.md",
+    "Iron_Body.md",
     "How_To_Play.md",
+    "Grasping_Sky.md",
     "Gold_Sign.md",
-    "White_Fox.md",
+    "Global_Modifier.md",
+    "Cycling_Technique.md",
+    "Cloud_Hammer.md",
+    "Character_Creation.md",
+    "Accuracy_and_Evasion.md",
+    "Welcome to Cradle RPG.md",
     "White Fox.md",
     "Life Force.md",
     "Level Difference Modifier.md",
     "Iron Body.md",
-    "How To Play.md",
-    "Grasping Sky.md",
-    "Gold Sign.md",
-    "Global Modifier.md",
-    "Cycling Technique.md",
-    "Cloud Hammer.md",
-    "Accuracy And Evasion.md",
-    "Character_Creation.md",
-    "Level_Difference_Modifier.md",
-    "Iron_Body.md",
-    "Advancement.md",
-    "Ailments.md",
-    "Sandviper.md",
     "Everything"
   ]
 }
