@@ -17,12 +17,12 @@ The path of the Sandviper takes advantage of poison aura.
 
 ## [S] Poisonous Weapon
 
-|Name|Notes|
-|---|---|
-|Effect|Creates copies of one's weapon made out of poisonous Madra dealing 1d10+10 damage|
-|Madra Cost|20 Madra|
-|Range|Melee|
-|Honing Effect|+5 Madra Cost|
+| Name          | Notes                                                                             |
+| ------------- | --------------------------------------------------------------------------------- |
+| Effect        | Creates copies of one's weapon made out of poisonous Madra dealing 1d10+10 damage |
+| Madra Cost    | 20 Madra                                                                          |
+| Range         | Melee                                                                             |
+| Honing Effect | +5 Madra Cost                                                                     |
 
 ### Honing
 
@@ -54,12 +54,12 @@ The path of the Sandviper takes advantage of poison aura.
 
 ## [F] Poison Darts
 
-|Name|Notes|
-|---|---|
-|Effect|Forge darts as thin as needles to be launched at your enemy. Each dart will deal 5 damage and inflict Poison 2.|
-|Madra Cost|30 Madra|
-|Range|Melee, Near|
-|Honing Effect|+5 Madra Cost|
+| Name          | Notes                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Effect        | Forge 5 darts as thin as needles to be launched at your enemy. Each dart will deal 5 damage and inflict Poison 2. |
+| Madra Cost    | 30 Madra                                                                                                          |
+| Range         | Melee, Near                                                                                                       |
+| Honing Effect | +5 Madra Cost                                                                                                     |
 
 ### Honing
 

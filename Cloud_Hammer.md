@@ -13,22 +13,22 @@ The Cloud Hammer Path cultivates water and air aura
 
 # Foundation
 
-| Category          | Suggestion                                | Effect | Notes                                         |
-| ----------------- | ----------------------------------------- | ------ | --------------------------------------------- |
-| Iron Body         |                                           |        |                                               |
-| Cycling Technique |                                           |        |                                               |
-| Gold Sign         | A halo of cloud floating around your head | None   | Braodcasts to others the noble Path you're on |
+| Category          | Suggestion                           | Effect                                                                  | Notes                                                         |
+| ----------------- | ------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Iron Body         | Stalwart's Armor                     | Reduce all physical damage by 2                                         | Hardens the skin, making it more difficult to cut or puncture |
+| Cycling Technique |                                      | Increased lung performance (survive with less oxygen in the atmosphere) |                                                               |
+| Gold Sign         | Cloud Halo floating around your head | None                                                                    | Braodcasts to others the noble Path you're on                 |
 
 # Techniques
 
-## [S] Cutting Fountain
+## [S] Slicing Fountain
 
-| Name          | Notes                                               |
-| ------------- | --------------------------------------------------- |
-| Effect        | Launch a beam of water and air Madra at your target |
-| Madra Cost    |                                                     |
-| Range         |                                                     |
-| Honing Effect |                                                     |
+| Name          | Notes                                                                 |
+| ------------- | --------------------------------------------------------------------- |
+| Effect        | Launch a beam of water and air Madra at your target for 1d10+5 damage |
+| Madra Cost    | 10                                                                    |
+| Range         | Melee, Near                                                           |
+| Honing Effect | +5 Madra Cost                                                         |
 
 ### Honing
 
