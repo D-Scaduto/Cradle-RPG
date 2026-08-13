@@ -1,9 +1,9 @@
 # Snadviper 
-The Path of the Sandviper cultivates Poison aura. Sandviper Sacred Artists use an assortment toxic techniques to whittle down their opponents. They also possess techniques that deal a burst of damage to their target just like the the painful strike of their path's namesake, the Sandviper.
+The Path of the Sandviper cultivates poison aura. Sandviper Sacred Artists use an assortment toxic techniques to whittle down their opponents. They also possess techniques that deal a burst of damage to their target just like the the painful strike of their path's namesake, the Sandviper.
 
 # Type(s) of Aura
 
-The path of the Sandviper takes advantage of Poison aura.
+The path of the Sandviper takes advantage of poison aura.
 
 # Foundation
 

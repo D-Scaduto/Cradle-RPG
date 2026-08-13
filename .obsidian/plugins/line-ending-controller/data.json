@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "pattern": "",
+      "strategy": "lf"
+    }
+  ],
+  "debug": false,
+  "fixOnOpen": true
+}

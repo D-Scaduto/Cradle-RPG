@@ -38,12 +38,12 @@ The path of the White Fox takes advantage of Dream and Light aura. Using the eph
 
 ## [E] Fox Tail
 
-|Name|Notes|
-|---|---|
-|Effect|Simultaneously hides the user while creating an illusionary copy. Tricks the target into believing the copy is the true self allowing the user to strike an unprotected area. The illusion does no damage|
-|Madra Cost|25 Madra|
-|Range|Melee, Close, Far|
-|Honing Effect|+5 Madra Cost|
+| Name          | Notes                                                                                                                                                                                                     |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Effect        | Simultaneously hides the user while creating an illusionary copy. Tricks the target into believing the copy is the true self allowing the user to strike an unprotected area. The illusion does no damage |
+| Madra Cost    | 25 Madra                                                                                                                                                                                                  |
+| Range         | Melee, Close, Far                                                                                                                                                                                         |
+| Honing Effect | +5 Madra Cost                                                                                                                                                                                             |
 
 ### Honing
 
