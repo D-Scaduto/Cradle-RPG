@@ -8,11 +8,12 @@
 
 # Foundation
 
-| Category          | Suggestion | Effect | Notes |
-| ----------------- | ---------- | ------ | ----- |
-| Iron Body         |            |        |       |
-| Cycling Technique |            |        |       |
-| Gold Sign         |            |        |       |
+| Category              | Suggestion | Effect | Notes |
+| --------------------- | ---------- | ------ | ----- |
+| Iron Body             |            |        |       |
+| Cycling Technique     |            |        |       |
+| Gold Sign             |            |        |       |
+| Mundane Attack Damage |            |        |       |
 
 # Techniques
 
