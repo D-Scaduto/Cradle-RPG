@@ -4,7 +4,7 @@ The Cloud Hammer Path cultivates water and air aura. Cloud Hammer Sacred Artists
 
 # Type(s) of Aura
 
-The Cloud Hammer Path cultivates water and air aura
+Water plus air aura In the correct ration combine with the Sacred Artists influence creates Cloud Hammer Madra
 
 # Foundation
 
@@ -58,9 +58,10 @@ The Cloud Hammer Path cultivates water and air aura
 | Name          | Notes                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | Effect        | Create weapons out of water Madra. It can unform and reform at will. Use the weapon for 2d10 Damage |
-| Madra Cost    |                                                                                                     |
-| Range         |                                                                                                     |
-| Honing Effect |                                                                                                     |
+| Madra Cost    | 30                                                                                                  |
+| Range         | Melee                                                                                               |
+| Duration     | Infinite                                                                                            |
+| Honing Effect |  +5 Madra                                                                                           |
 
 
 ### Honing
@@ -85,5 +86,5 @@ The Cloud Hammer Path cultivates water and air aura
 | Name                    | Honing Point Cost | Notes                                                                   |
 | ----------------------- | ----------------- | ----------------------------------------------------------------------- |
 | Intensity/Explosiveness | 1                 | Increase the damage of Unique Feature +5                                |
-| Reduced Madra Cost      |                   |                                                                         |
+| Reduced Madra Cost      | 3                 | -5 Madra                                                                |
 | Unique Feature          | 4                 | push the Cloud Madra out at any nearby people(5 Madra, Melee, 5 damage) |
