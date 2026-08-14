@@ -36,7 +36,7 @@ The Cloud Hammer Path cultivates water and air aura
 | Reduced Madra Cost      | 1 (doesn't incur the Honing Effect of +5 Madra) | -5    |
 | Special Effect          | 4                                               |       |
 
-## [R] Impenetrable Haze
+## [R] Cloaking Haze
 
 | Name          | Notes                               |
 | ------------- | ----------------------------------- |
@@ -55,12 +55,13 @@ The Cloud Hammer Path cultivates water and air aura
 
 ## [F] Thunderhead
 
-| Name          | Notes                                                                                                   |
-| ------------- | ---------------------------------------------------------------------------------------------------- |
-| Effect    Create weapons out of water Madra. It can unform and reform at will. Use the weapon for 2d10 Damage  g  g  g  |
-| Madra Co                                                                                                                |
-| Range                                                                                                                   |
-| Honing Ef                                                                                                               |
+| Name          | Notes                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| Effect        | Create weapons out of water Madra. It can unform and reform at will. Use the weapon for 2d10 Damage |
+| Madra Cost    |                                                                                                     |
+| Range         |                                                                                                     |
+| Honing Effect |                                                                                                     |
+
 
 ### Honing
 
@@ -81,8 +82,8 @@ The Cloud Hammer Path cultivates water and air aura
 
 ### Honing
 
-| Name                    | Honing Point Cost | Notes                                                      |
-| ----------------------- | ----------------- | ---------------------------------------------------------- |
-| Intensity/Explosiveness | 1                 | Increase the damage of Unique Feature                      |
-| Reduced Madra Cost      |                   |                                                            |
-| Unique Feature          | 4                 | push the Cloud Madra out at any nearby people for 5 damage |
+| Name                    | Honing Point Cost | Notes                                                                   |
+| ----------------------- | ----------------- | ----------------------------------------------------------------------- |
+| Intensity/Explosiveness | 1                 | Increase the damage of Unique Feature +5                                |
+| Reduced Madra Cost      |                   |                                                                         |
+| Unique Feature          | 4                 | push the Cloud Madra out at any nearby people(5 Madra, Melee, 5 damage) |
