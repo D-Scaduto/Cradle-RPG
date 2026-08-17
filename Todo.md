@@ -4,6 +4,7 @@
 	- [ ] [[Grasping_Sky]]
 	- [x] [[Cloud_Hammer]]
 	- [ ] [[Stellar Spear]]
+ 	- [ ] [[Kotai Clan]] Needs Path Name
 - [ ] Re-organize some of the files
 - [ ] Flesh out jobs 
 	- [ ] Soul Smithing
@@ -12,7 +13,3 @@
 	- This should probably unique per path, but it would be nice if there was a base line. 
 	- Something like 1d10 as base line
 	- If you are stronger because of iron body or something, maybe get +5
-	- 
-
-
- 
