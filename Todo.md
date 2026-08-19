@@ -1,15 +1,22 @@
-- [x] Add H1 headers at the top of the page
+# Incomplete
 - [ ] Organize things by folder? Not even sure if I want this
-- [ ] flesh out more paths like 
+- flesh out more paths 
 	- [ ] [[Grasping_Sky]]
-	- [x] [[Cloud_Hammer]]
 	- [ ] [[Stellar Spear]]
- 	- [ ] [[Kotai Clan]] Needs Path Name
-- [ ] Re-organize some of the files
+	- [ ] [[Kotai Clan]] Needs Path Name
+  	- [ ] A path that acts as a controller.
+  		- Shut down certain types of attacks (Forger/Striker/etc)
+  	 	- Changes the way speed works (like trick room in pokemon)
+  	- [ ] debuffer and/or buffer
+  	- [ ] Ailments, DOT. Might fit better into the controller path
 - [ ] Flesh out jobs 
 	- [ ] Soul Smithing
 	- [ ] Pill Refining
+ 	- [ ] Growing Spirit fruit and plant 
 - [ ] Give all paths Mundane attack damage. 
 	- This should probably unique per path, but it would be nice if there was a base line. 
 	- Something like 1d10 as base line
 	- If you are stronger because of iron body or something, maybe get +5
+# Complete
+- [x] Add H1 headers at the top of the page
+- [x] [Cloud_Hammer](Cloud_Hammer.md)
