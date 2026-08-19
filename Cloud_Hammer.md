@@ -57,7 +57,7 @@ Water plus air aura In the correct ration combine with the Sacred Artists influe
 
 | Name          | Notes                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------- |
-| Effect        | Create weapons out of water Madra. It can unform and reform at will. Use the weapon for 2d10 Damage |
+| Effect        | Create weapons out of water Madra. It can disolve and reform at will. Use the weapon for 2d10 Damage |
 | Madra Cost    | 30                                                                                                  |
 | Range         | Melee                                                                                               |
 | Duration     | Infinite                                                                                            |
@@ -71,6 +71,25 @@ Water plus air aura In the correct ration combine with the Sacred Artists influe
 | Intensity/Explosiveness | 2                                               | +1d10    |
 | Increase Damage         | 2                                               | +5       |
 | Reduced Madra Cost      | 2 (doesn't incur the Honing Effect of +5 Madra) | -3 Madra |
+
+## [F] Kuraudo kusarigama (Cloud Hammer Chain) 
+
+| Name          | Notes                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| Effect        | Teather your hammer to you through chains of forged Cloud Madra. Whipping it around you with increased range, speed, and force (+5 Damage) |
+| Madra Cost    | 20                                                                                                  |
+| Range         | Near (not Melee)                                                                                               |
+| Duration      | 3 Rounds                                                                                            |
+| Honing Effect |  +5 Madra                                                                                           |
+
+
+### Honing
+
+| Name                    | Honing Point Cost                               | Notes    |
+| ----------------------- | ----------------------------------------------- | -------- |
+| Intensity/Explosiveness | 2                                               | +1d10    |
+| Increase Damage         | 2                                               | +5       |
+| Reduced Madra Cost      | 2 (doesn't incur the Honing Effect of +5 Madra) | -5 Madra |
 
 ## [E] Cloud Armor
 
