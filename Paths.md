@@ -15,7 +15,7 @@ See [Abidan Archives](https://abidan-archives.fandom.com/wiki/List_of_all_named
 - [Sandviper](Sandviper.md)
 - [Cloud Hammer](Cloud_Hammer.md)
 - [Grasping Sky](Grasping_Sky.md)
-- [Stellar Spear](Stellar_spear.md)
+- [Stellar Spear](Stellar_Spear.md)
 
 # Reserved Paths
 
