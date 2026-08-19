@@ -6,12 +6,12 @@ Light and Sword Madra mixed together to form a deadly combination.
 
 # Foundation
 
-| Category              | Suggestion | Effect | Notes |
-| --------------------- | ---------- | ------ | ----- |
-| Iron Body             |            |        |       |
-| Cycling Technique     |            |        |       |
-| Gold Sign             |            |        |       |
-| Mundane Attack Damage |            |        |       |
+| Category              | Suggestion       | Effect                                                                                                 | Notes                                  |
+| --------------------- | ---------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| Iron Body             |                  | Improved ability to dodge attacks (+10%)                                                               |                                        |
+| Cycling Technique     |                  | When launching striker techniques through your chosen weapon type it gets increased damage (+5)        |  The weapon type cannot be changed     |
+| Gold Sign             |                  |  Metallic Hair/Braids                                                                                  |                                        |
+| Mundane Attack Damage |  Likely a spear  |  1d10                                                                                                  |                                        |
 
 # Techniques
 
