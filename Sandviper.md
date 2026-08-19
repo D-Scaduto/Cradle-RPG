@@ -1,9 +1,9 @@
 # Snadviper 
-The Path of the Sandviper cultivates Poison aura. Sandviper Sacred Artists use an assortment toxic techniques to whittle down their opponents. They also possess techniques that deal a burst of damage to their target just like the the painful strike of their path's namesake, the Sandviper.
+The Path of the Sandviper cultivates poison aura. Sandviper Sacred Artists use an assortment toxic techniques to whittle down their opponents. They also possess techniques that deal a burst of damage to their target just like the the painful strike of their path's namesake, the Sandviper.
 
 # Type(s) of Aura
 
-The path of the Sandviper takes advantage of Poison aura.
+The path of the Sandviper takes advantage of poison aura.
 
 # Foundation
 
@@ -17,12 +17,12 @@ The path of the Sandviper takes advantage of Poison aura.
 
 ## [S] Poisonous Weapon
 
-|Name|Notes|
-|---|---|
-|Effect|Creates copies of one's weapon made out of poisonous Madra dealing 1d10+10 damage|
-|Madra Cost|20 Madra|
-|Range|Melee|
-|Honing Effect|+5 Madra Cost|
+| Name          | Notes                                                                             |
+| ------------- | --------------------------------------------------------------------------------- |
+| Effect        | Creates copies of one's weapon made out of poisonous Madra dealing 1d10+10 damage |
+| Madra Cost    | 20 Madra                                                                          |
+| Range         | Melee                                                                             |
+| Honing Effect | +5 Madra Cost                                                                     |
 
 ### Honing
 
@@ -54,12 +54,12 @@ The path of the Sandviper takes advantage of Poison aura.
 
 ## [F] Poison Darts
 
-|Name|Notes|
-|---|---|
-|Effect|Forge darts as thin as needles to be launched at your enemy. Each dart will deal 5 damage and inflict Poison 2.|
-|Madra Cost|30 Madra|
-|Range|Melee, Near|
-|Honing Effect|+5 Madra Cost|
+| Name          | Notes                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Effect        | Forge 5 darts as thin as needles to be launched at your enemy. Each dart will deal 5 damage and inflict Poison 2. |
+| Madra Cost    | 30 Madra                                                                                                          |
+| Range         | Melee, Near                                                                                                       |
+| Honing Effect | +5 Madra Cost                                                                                                     |
 
 ### Honing
 

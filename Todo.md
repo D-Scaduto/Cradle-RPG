@@ -2,11 +2,14 @@
 - [ ] Organize things by folder? Not even sure if I want this
 - [ ] flesh out more paths like 
 	- [ ] [[Grasping_Sky]]
-	- [ ] [[Cloud_Hammer]]
+	- [x] [[Cloud_Hammer]]
 	- [ ] [[Stellar Spear]]
-- [ ] re-organize some of the files
-- [ ] Flesh out jobs (like soulsmithing)
-
-
-
- 
+ 	- [ ] [[Kotai Clan]] Needs Path Name
+- [ ] Re-organize some of the files
+- [ ] Flesh out jobs 
+	- [ ] Soul Smithing
+	- [ ] Pill Refining
+- [ ] Give all paths Mundane attack damage. 
+	- This should probably unique per path, but it would be nice if there was a base line. 
+	- Something like 1d10 as base line
+	- If you are stronger because of iron body or something, maybe get +5

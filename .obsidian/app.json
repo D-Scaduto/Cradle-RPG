@@ -7,5 +7,5 @@
     "downscalePercent": 86
   },
   "showInlineTitle": false,
-  "readableLineLength": true
+  "readableLineLength": false
 }

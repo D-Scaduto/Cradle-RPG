@@ -1,0 +1,10 @@
+{
+	"id": "line-ending-controller",
+	"name": "Line Ending Controller",
+	"version": "1.0.2",
+	"minAppVersion": "1.8.7",
+	"description": "Control line ending format (LF/CRLF) per file or per folder. Prevent silent conversion of CRLF to LF.\n按文件或文件夹控制换行符格式（LF/CRLF）,防止静默将 CRLF 转换为 LF.",
+	"author": "anseyuyin",
+	"authorUrl": "https://github.com/anseyuyin",
+	"isDesktopOnly": true
+}
