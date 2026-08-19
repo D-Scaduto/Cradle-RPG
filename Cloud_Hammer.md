@@ -13,7 +13,7 @@ Water plus air aura In the correct ratio combine with the Sacred Artists influen
 | Iron Body             | Stalwart's Armor                     | Reduce all physical damage by 2                                         | Hardens the skin, making it more difficult to cut or puncture |
 | Cycling Technique     |                                      | Increased lung performance (survive with less oxygen in the atmosphere) |                                                               |
 | Gold Sign             | Cloud Halo floating around your head | None                                                                    | Braodcasts to others the noble Path you're on                 |
-| Mundane Attack Damage | Punch                                | +1d10 damage                                                            | You have strong fists                                         |
+| Mundane Attack Damage | Punch                                | 1d10 damage                                                            | You have strong fists                                         |
 
 # Techniques
 
