@@ -1,8 +1,8 @@
 # Incomplete
 - [ ] Organize things by folder? Not even sure if I want this
 - flesh out more paths 
-	- [ ] [[Grasping_Sky]]
-	- [ ] [[Stellar Spear]]
+	- [ ] [Grasping_Sky](Grasping_Sky.md)
+	- [ ] [Stellar Spear](Stellar_Spear.md)
 	- [ ] [[Kotai Clan]] Needs Path Name
   	- [ ] A path that acts as a controller.
   		- Shut down certain types of attacks (Forger/Striker/etc)
