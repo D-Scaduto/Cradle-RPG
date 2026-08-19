@@ -4,7 +4,7 @@ The Cloud Hammer Path cultivates water and air aura. Cloud Hammer Sacred Artists
 
 # Type(s) of Aura
 
-Water plus air aura In the correct ration combine with the Sacred Artists influence creates Cloud Hammer Madra
+Water plus air aura In the correct ratio combine with the Sacred Artists influence creates Cloud Hammer Madra
 
 # Foundation
 
