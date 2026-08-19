@@ -17,6 +17,7 @@
 	- This should probably unique per path, but it would be nice if there was a base line. 
 	- Something like 1d10 as base line
 	- If you are stronger because of iron body or something, maybe get +5
+- [ ] Re-read [How to play] (How_To_Play.md) and make sure I like everything there
 # Complete
 - [x] Add H1 headers at the top of the page
 - [x] [Cloud_Hammer](Cloud_Hammer.md)
