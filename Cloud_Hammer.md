@@ -17,14 +17,14 @@ Water plus air aura In the correct ration combine with the Sacred Artists influe
 
 # Techniques
 
-## [S] Slicing Fountain
+## [S] Billowing Beam
 
-| Name          | Notes                                                                 |
-| ------------- | --------------------------------------------------------------------- |
-| Effect        | Launch a beam of water and air Madra at your target for 1d10+5 damage |
-| Madra Cost    | 10                                                                    |
-| Range         | Melee, Near                                                           |
-| Honing Effect | +5 Madra Cost                                                         |
+| Name          | Notes                                                                                                                  |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Effect        | Force a cylinder of cloud Marda forward, destroying anything it's path for a powerful blunt force. Deals 1d10+5 damage |
+| Madra Cost    | 10                                                                                                                     |
+| Range         | Melee, Near                                                                                                            |
+| Honing Effect | +5 Madra Cost                                                                                                          |
 
 ### Honing
 
