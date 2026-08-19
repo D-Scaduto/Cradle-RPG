@@ -18,6 +18,9 @@
 	- Something like 1d10 as base line
 	- If you are stronger because of iron body or something, maybe get +5
 - [ ] Re-read [How to play] (How_To_Play.md) and make sure I like everything there
+- [ ] Signature Weapons for each path? At least for Cloud **Hammer** and and Stellar **Spear**
+
+
 # Complete
 - [x] Add H1 headers at the top of the page
 - [x] [Cloud_Hammer](Cloud_Hammer.md)
