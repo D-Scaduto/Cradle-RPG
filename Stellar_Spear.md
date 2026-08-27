@@ -15,73 +15,58 @@ Light and Sword Madra mixed together to form a deadly combination.
 
 # Techniques
 
-## [S] Cutting Fountain
+## [S] Stellar Spear
 
 | Name          | Notes |
 | ------------- | ----- |
-| Effect        |       |
-| Madra Cost    |       |
-| Range         |       |
-| Honing Effect |       |
+| Effect        | Fire a beam of Madra channeled through your weapon to hit a specific target. +2d10 damage   |
+| Madra Cost    | 10      |
+| Range         | Near      |
+| Honing Effect | +5 Madra      |
 
 ### Honing
 
 | Name                    | Honing Point Cost | Notes |
 | ----------------------- | ----------------- | ----- |
-| Intensity/Explosiveness |                   |       |
-| Increase Range          |                   |       |
-| Increase Damage         |                   |       |
-| Reduced Madra Cost      |                   |       |
-| Special Effect          |                   |       |
+| Intensity/Explosiveness |  2                 |       |
+| Increase Range          |     4              | + Far      |
+| Increase Damage         |  1                 |  +2     |
+| Reduced Madra Cost      |    2              |    -2   |
+| Special Effect          | 4                  |  ??     |
 
-## [R] Impenetrable Haze
+## [S] Serpent's Bite
 
 | Name          | Notes |
 | ------------- | ----- |
-| Effect        |       |
-| Madra Cost    |       |
-| Range         |       |
-| Honing Effect |       |
+| Effect        | Form Madra into 3 spear around your physical one. Strike with each of them in rapid succession. Four total strikes, each strike dealing 5 damage     |
+| Madra Cost    |   20    |
+| Range         | Melee      |
+| Honing Effect | +5 Madra      |
 
 ### Honing
 
 | Name                    | Honing Point Cost | Notes |
 | ----------------------- | ----------------- | ----- |
-| Intensity/Explosiveness |                   |       |
-| Increase Range          |                   |       |
-| Increase Damage         |                   |       |
-| Reduced Madra Cost      |                   |       |
+| Intensity/Explosiveness |  3                 | +1d10 damage to your physical spear strike      |
+| Increase Range          |  4                 |  Your spiritual spears can not strike foes at the Near range     |
+| Increase Damage         | 1                  |  +1 damage to each strike     |
+| Reduced Madra Cost      |3                   | -5       |
+| Special Effect          | 4                  |  Enhance your spiritual spears to be more solid allowing them to linger for a short time after they technique ends. Adding a [F] Forger aspect to the technique  |
 
-## [F] Thunderhead
+
+
+## [E] Star Light's Blessing
 
 | Name          | Notes |
 | ------------- | ----- |
-| Effect        |       |
-| Madra Cost    |       |
-| Range         |       |
-| Honing Effect |       |
+| Effect        | Enhance speed and reflexes while active. Giving +20% dodge chance      |
+| Madra Cost    | 5 per turn it's active      |
+| Honing Effect | +10 Madra      |
 
 ### Honing
 
 | Name                    | Honing Point Cost | Notes |
 | ----------------------- | ----------------- | ----- |
-| Intensity/Explosiveness |                   |       |
-| Increase Damage         |                   |       |
-| Reduced Madra Cost      |                   |       |
-
-## [E] Cloud Armor
-
-| Name          | Notes |
-| ------------- | ----- |
-| Effect        |       |
-| Madra Cost    |       |
-| Range         |       |
-| Honing Effect |       |
-
-### Honing
-
-| Name                    | Honing Point Cost | Notes |
-| ----------------------- | ----------------- | ----- |
-| Intensity/Explosiveness |                   |       |
-| Increase Duration       |                   |       |
-| Reduced Madra Cost      |                   |       |
+| Effectiveness  | 4                   |  +5% dodge change     |
+| Reduced Madra Cost      |   2                |  -5 madra     |
+| Special Effect          | 4                  | Increase strength enhancing all damage by +1  |
