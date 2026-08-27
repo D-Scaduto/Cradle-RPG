@@ -34,7 +34,7 @@ Light and Sword Madra mixed together to form a deadly combination.
 | Reduced Madra Cost      |    2              |    -2   |
 | Special Effect          | 4                  |  ??     |
 
-## [S] Serpent's Bite
+## [F] Serpent's Bite
 
 | Name          | Notes |
 | ------------- | ----- |
@@ -51,7 +51,6 @@ Light and Sword Madra mixed together to form a deadly combination.
 | Increase Range          |  4                 |  Your spiritual spears can not strike foes at the Near range     |
 | Increase Damage         | 1                  |  +1 damage to each strike     |
 | Reduced Madra Cost      |3                   | -5       |
-| Special Effect          | 4                  |  Enhance your spiritual spears to be more solid allowing them to linger for a short time after they technique ends. Adding a [F] Forger aspect to the technique  |
 
 
 
