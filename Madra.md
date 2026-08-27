@@ -26,6 +26,7 @@ Some locations are Aura hot spots that have accumulated a large amount of one ki
 Some types of Aura like Life an Death might be conventionally thought of as  
 opposites, but that's not the case. Aura accumulates in the presence of that aspect. A graveyard might have a lot of Death Aura, where a bustling city may have a lot of Life Aura. A volcano island will have Water Aura from the surrounding body of water plus Fire from the volcano. If the volcano were to erupt but there is nothing near the volcano that could be "destroyed" then there wouldn't be any destruction aura. However, if the volcano erupted and leveled an entire town, the air would be dense with destruction aura.
 
+Aura can accumulate in a certain spot over time. And the unique properties of that location contribute to its accumulation. water aura from the ocean is not the same as that from a river, or, a large lake. Doubly so if there are living creatures in the water.
 ## Cycling
 
 Cycling the main way Sacred Artists improve their [Madra capacity](Madra.md#max-madra) and recover from battle. Cycling and Madra are directly tied together. Over the course of a Sacred Artists life they will meditate and Cycle numerous times. This is a time of reflection and replenishment, intended to help grow a Sacred Artist.
