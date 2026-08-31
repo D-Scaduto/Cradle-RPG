@@ -8,11 +8,6 @@
 		- Changes the way speed works (like trick room in pokemon)
 	- [ ] debuffer and/or buffer
 	- [ ] Ailments, DOT. Might fit better into the controller path
-- [ ] Flesh out jobs 
-	- [ ] Soul Smithing
-	- [ ] Pill Refining
-	- [ ] Growing Spirit fruit and plant 
-	- [ ] Bounty Hunting
 - [ ] Give all paths Mundane attack damage. 
 	- This should probably unique per path, but it would be nice if there was a base line. 
 	- Something like 1d10 as base line
@@ -25,3 +20,8 @@
 - [x] Add H1 headers at the top of the page
 - [x] [Cloud_Hammer](Cloud_Hammer.md)
 - [x] [Stellar Spear](Stellar_Spear.md)
+- [x] Flesh out jobs 
+	- [x] Soul Smithing
+	- [x] Pill Refining
+	- [x] Growing Spirit fruit and plant 
+	- [x] Bounty Hunting
