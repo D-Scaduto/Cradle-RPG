@@ -17,7 +17,7 @@
 
 # Techniques
 
-## [S] Cutting Fountain
+## [S] 
 
 | Name          | Notes |
 | ------------- | ----- |
@@ -36,7 +36,7 @@
 | Reduced Madra Cost      |                   |       |
 | Special Effect          |                   |       |
 
-## [R] Impenetrable Haze
+## [R] 
 
 | Name          | Notes |
 | ------------- | ----- |
@@ -54,7 +54,7 @@
 | Increase Damage         |                   |       |
 | Reduced Madra Cost      |                   |       |
 
-## [F] Thunderhead
+## [F] 
 
 | Name          | Notes |
 | ------------- | ----- |
@@ -71,7 +71,7 @@
 | Increase Damage         |                   |       |
 | Reduced Madra Cost      |                   |       |
 
-## [E] Cloud Armor
+## [E] 
 
 | Name          | Notes |
 | ------------- | ----- |
