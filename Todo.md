@@ -1,8 +1,8 @@
 # Incomplete
 - [ ] Organize things by folder? Not even sure if I want this
-- flesh out more paths 
+- flesh out more paths - https://abidan-archives.fandom.com/wiki/List_of_all_named_Paths
 	- [ ] [Grasping_Sky](Grasping_Sky.md)
-	- [ ] [[Kotai Clan]] Needs Path Name
+	- [ ] [Unstained_Shield](Unstained_Shield.md)
   	- [ ] A path that acts as a controller.
   		- Shut down certain types of attacks (Forger/Striker/etc)
   	 	- Changes the way speed works (like trick room in pokemon)
