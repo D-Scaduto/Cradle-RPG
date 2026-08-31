@@ -1,5 +1,5 @@
 # Jobs
-
+All of these are methods to gain raw ingredients, refined works, or simple make money by selling your services. 
 ## Soulsmithing
 Crafting powerful weapons and tools to help with any task a Sacred Artist might encounter.
 
