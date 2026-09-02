@@ -7,7 +7,7 @@ All Characters start out as Low Golds. See [Advancement](Advancement.md) for a
     1. You can either roll **\[2d10*5+50\]** OR don't roll and use a slightly below average value of **90**
 3. Determine you're starting **[Madra](Madra.md)**
     1. You can either roll **\[2d10*5\]** OR don't roll and use a slightly below average value of **40**
-4. **[Cycling Technique](Cycling Technique.md)**(Madra Modification)
+4. **[Cycling Technique](Cycling_Technique.md)**(Madra Modification)
 5. **[Iron Body](Iron_Body.md)** (Physical Mod)
 6. **[Gold Sign](Gold_Sign.md)** (Optional if Wealthy)
 7. Choose 2 starting **[Techniques](Techniques.md)** from between
