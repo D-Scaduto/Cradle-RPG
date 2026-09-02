@@ -14,7 +14,7 @@
 	- If you are stronger because of iron body or something, maybe get +5
 - [ ] Re-read [How to play] (How_To_Play.md) and make sure I like everything there
 - [ ] Signature Weapons for each path? At least for Cloud **Hammer** and and Stellar **Spear**
-
+- [ ] Lord revelations are decided by fellow players
 
 # Complete
 - [x] Add H1 headers at the top of the page
