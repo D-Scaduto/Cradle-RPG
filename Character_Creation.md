@@ -20,7 +20,7 @@ All Characters start out as Low Golds. See [Advancement](Advancement.md) for a
 
 - See [Advancement](Advancement.md).
 
-1. Distribute 4 points to hone [Techniques]((Techniques.md)
+1. Distribute 4 points to hone [Techniques](Techniques.md)
 2. Increase [Global Modifier](Global_Modifier.md) by 1 (increase by 3 when advancing from True Gold to Underlord)
 3. [Cycling Technique](Cycling_Technique.md) Bonus (If Applicable)
 4. [Iron Body](Iron_Body.md) Bonus (If Applicable)
