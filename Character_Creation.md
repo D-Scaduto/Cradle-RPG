@@ -3,7 +3,7 @@
 All Characters start out as Low Golds. See [Advancement](Advancement.md) for a list of all advancement stages
 
 1. **[Your Path](Paths.md)**. Create your own or select one from the most common
-2. Determine you're starting **[Life Force](Life Force.md)**
+2. Determine you're starting ** [Life Force](Life_Force.md) **
     1. You can either roll **\[2d10*5+50\]** OR don't roll and use a slightly below average value of **90**
 3. Determine you're starting **[Madra](Madra.md)**
     1. You can either roll **\[2d10*5\]** OR don't roll and use a slightly below average value of **40**
