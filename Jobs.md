@@ -3,6 +3,8 @@ All of these are methods to gain raw ingredients, refined works, or simple make 
 ## Soulsmithing
 Crafting powerful weapons and tools to help with any task a Sacred Artist might encounter.
 
+It's possible to combine multiple bindings in such a way that their output is comlimentary and multiplicative, allowing a the final project to exceed the power level of it's internal components.
+
 ## Refining
 Distilling, condensing, and concentrating the essence of the natural world into it's most potent forms. Essential for creating healing elixirs and advancement pills.
 
