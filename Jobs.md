@@ -1,9 +1,11 @@
 # Jobs
 All of these are methods to gain raw ingredients, refined works, or simple make money by selling your services. 
 ## Soulsmithing
+The act of forging natural bindings into man-made objects. Weapons, tool, just about anything that might be useful to society and Sacred Artists can be created. The bindings inside an object separate it from a equivalent mundane version of the same object.
+
 Crafting powerful weapons and tools to help with any task a Sacred Artist might encounter.
 
-It's possible to combine multiple bindings in such a way that their output is comlimentary and multiplicative, allowing a the final project to exceed the power level of it's internal components.
+It's possible to combine multiple bindings in such a way that their output is complimentary and multiplicative, allowing a the final project to exceed the power level of it's internal components.
 
 ## Refining
 Distilling, condensing, and concentrating the essence of the natural world into it's most potent forms. Essential for creating healing elixirs and advancement pills.
