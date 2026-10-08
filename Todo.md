@@ -2,10 +2,6 @@
 
 ## Critical
 - [ ] Explain how a Path Manual should work
-- [ ] Give all paths Mundane attack damage. 
-	- This should probably unique per path, but it would be nice if there was a base line. 
-	- Something like 1d10 as base line
-	- If you are stronger because of iron body or something, maybe get +5
  - [ ] Re-read [How to play] (How_To_Play.md) and make sure I like everything there
  - [ ] Update [README.md](README.md) with table of contents
  - [ ] Add mechanism for disciples.
@@ -35,3 +31,4 @@
 	- [x] Pill Refining
 	- [x] Growing Spirit fruit and plant 
 	- [x] Bounty Hunting
+- [x] Give all paths Mundane attack damage. 
