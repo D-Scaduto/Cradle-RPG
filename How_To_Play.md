@@ -206,11 +206,15 @@ The raw attack power. This is based on the specific Technique's power, the level
 
 Attack Power = [Technique](Techniques.md) Power + [Global Modifier](Global_Modifier.md) + [Level Difference Modifier](Level_Difference_Modifier.md)
 
-#### Mundane Attack Power
+#### Weapon Attack Power
 
-Sacred Artists often carry weapons with them which they are able to Enforce or otherwise use to rain down destruction on their foes. When attack with a weapon the weapon's innate strength are important to the power of the attack. If a [Underlord](Advancement.md#lord) was using the weapon of a [Low Gold](Advancement.md#low-gold), the attack would be much weaker than if they used a weapon with an appropriate strength matching their own.
+##### Mundane 
+Sacred Artists often carry weapons with them which they are able to Enforce or otherwise use to rain down destruction on their foes. Many of these weapons have bindings in them, but it's not always required to activate the binding. When swinging your weapon without activating it's binding it will do 1d5 (1d10/2) damage
 
-Similarly if the inverse were to happen (a Low Gold was using the weapon of a Underlord) the weapon would do more damage than expected, but it would be impossible to control making the attackers strike more wild and uncontrollable.
+##### Activated Binding
+When the binding in a weapon is activate, its strength will be increased according to the binding's function. Activating the binding requires a certain amount of Madra, described by the weapons properties. Not all weapons require the same investment. 
+
+It's possible to use a weapon that is above or below your advancement, in those scenarios the Madra cost will be adjusted up or down by an order of magnitude. If a binding is above your advancement, you will have a difficult time controlling it. There is an innate 40% chance for that attack to fail and nothing happens, and a 10% change that you injure yourself in the process.
 
 #### Damage Reduction
 
