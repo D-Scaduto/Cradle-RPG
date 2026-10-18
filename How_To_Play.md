@@ -1,7 +1,7 @@
 # How to Play
-Cradle-RPG is a system based around the world of Cradle, Iteration 110. Originally created by [Will Wight](https://www.willwight.com/). In this world nearly all humans practice the Sacred Arts. Sacred Arts are real life martial arts with a fantasy twist. Sacred Artists are able to mess with the laws of physics to make the world bend to their will. They can achieve inhuman feats like running incredibly fast, jumping hundreds of feet in the air, even flying in some unique cases. There are also various [Ranks](Advancement.md) that describe how powerful you are. After advancing, each Rank some with some bonuses. Reaching the highest Rank of [Monarch](Advancement.md#Monarch) would be considered the pinnacle of success. While There are beings even more powerful than Monarchs they are akin to gods. Its possible for Sacred Artists to advance to this level, but it would take well over 100 years training.
+Cradle-RPG is a system based around the world of Cradle, Iteration 110. Originally created by [Will Wight](https://www.willwight.com/). In this world nearly all humans practice the Sacred Arts. Sacred Arts are real life martial arts with a fantasy twist. Sacred Artists are able to mess with the laws of physics to make the world bend to their will. They can achieve inhuman feats like running incredibly fast, jumping hundreds of feet in the air, even flying in some unique cases. There are also various [Ranks](Advancement.md) that describe how powerful you are. After advancing, each Rank comes with some bonuses. Reaching the highest Rank of [Monarch](Advancement.md#Monarch) would be considered the pinnacle of success. While there are beings even more powerful than Monarchs they are akin to gods. Its possible for Sacred Artists to advance to this level, but it would take well over 100 years training.
 
-As a Sacred Artist you will be tested in many ways, not just combat. However combat is the best way to advance, gain fame and respect, and represents is the core of Cradle-RPG. As described in the [Character Creation](Character_Creation.md) section you will select a [Path](Paths.md). I encourage you to work with your GM and create your own path. I recognize this may be difficult to balance from a mechanical standpoint, that is why I have tried to explain in each section my rationale behind the dice rolls and formulas.
+As a Sacred Artist you will be tested in many ways, not just combat. However, combat is the best way to advance, gain fame and respect, and represents the core of Cradle-RPG. As described in the [Character Creation](Character_Creation.md) section you will select a [Path](Paths.md). I encourage you to work with your GM and create your own path. I recognize this may be difficult to balance from a mechanical standpoint, that is why I have tried to explain in each section my rationale behind the dice rolls and formulas.
 
 # Global Modifier
 
@@ -33,7 +33,7 @@ Level Difference Modifier = [your advancement level] - [your opponents advancem
 
 As an example if a True Gold launches a [Striker Technique](Techniques.md#striker-s) at a Low Gold, the True Gold will get a +10 Level Difference Modifier added to their damage roll.
 
-Often in the books it is mentioned just how much stronger one [Advancement](Advancement.md) level is than another. I tired to emulate that through static bonuses. When a user can only roll in multiples of d10, then a static +5 bonus should ensure that the stronger party wins _most_ of the time. The books obvious heroic moments, but those are few and far between.
+Often in the books it is mentioned just how much stronger one [Advancement](Advancement.md) level is than another. I tired to emulate that through static bonuses. When a user can only roll in multiples of d10, then a static +5 bonus should ensure that the stronger party wins _most_ of the time. The book has heroic moments, but those are few and far between.
 
 |Attacker/Defender|Copper|Iron|Jade|Low Gold|High Gold|True Gold|Underlady|Overlady|Archlady|
 |---|---|---|---|---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Cycling is an action players can take to restore Madra. This is done outside of
 
 Encounters are the various situations where there are two opposing forces. This doesn't have to be combat, and don't even require there to be two humans. When ever a player wants to take a specific action and an NPC tries to resist that action could be considered an encounter. This could be trying to sneak into a palace, or intimidate a foe for information, or as simple as two Sacred Artists wanting to duel ([Combat](How_To_Play.md#combat)).
 
-Each encounter will have a [Challenge Rating](How_To_Play.md#challenge-rating) that dictates the minimum value needed to succeed and an [advancement](Advancement.md) rating the affects the [Level Difference Modifier](Level_Difference_Modifier.md) that gets added as a bonus to the roll.
+Each encounter will have a [Challenge Rating](How_To_Play.md#challenge-rating) that dictates the minimum value needed to succeed and an [advancement](Advancement.md) rating that affects the [Level Difference Modifier](Level_Difference_Modifier.md) that gets added as a bonus to the roll.
 
 ## Challenge Rating
 
@@ -70,7 +70,7 @@ Each encounter will have a [Challenge Rating](How_To_Play.md#challenge-rating)�
 
 # Skill Checks
 
-You are successful in a check if your Skill Check Score is greater than or equal to the Effective Challenge Rating
+You are successful in a check if your Skill Check Score is greater than or equal to the Effective Challenge Rating.
 
 Effective Challenge Rating= [Challenge Rating(How_To_Play.md#challenge-rating) + [Level Difference Modifier](Level_Difference_Modifier.md)  
 Skill Check Score= 1d10 + [Global Modifier](Global_Modifier.md) + [Level Difference Modifier](Level_Difference_Modifier.md) + Other Bonuses
@@ -83,17 +83,17 @@ As Sacred Artists zip around the battle field, measuring exact distances would b
 
 Range is the measure of distance between two objects. It is up to the GM to decide when things are considered within a specific range.
 
-|Range|Decsription|
-|---|---|
-|Melee|This is when a two objects or people are close enough to each other that they can touch each other|
-|Near|This is the space between Melee and Far|
-|Far|When two objects or people are too far away to effectively interact. Far is long enough where throwing an item from point A to B would take some time and could be easily intercepted. A person would still be able to see the other person if they were within Far Range|
+| Range | Decsription                                                                                                                                                                                                                                                                |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Melee | This is when two objects or people are close enough to each other that they can touch each other.                                                                                                                                                                          |
+| Near  | This is the space between Melee and Far.                                                                                                                                                                                                                                   |
+| Far   | When two objects or people are too far away to effectively interact. Far is long enough where throwing an item from point A to B would take some time and could be easily intercepted. A person would still be able to see the other person if they were within Far Range. |
 
-Anything closer than Melee would be be sharing the same space, and anything further than Far would be too Far to hear or see. In the case of higher levels of [Advancement](Advancement.md), your ability to see and hear over long distances increases to completely inhuman distances, That would result in that individual's possible Far range to extend further Sacred Artists of a lesser Advancement.
+Anything closer than Melee would be be sharing the same space, and anything further than Far would be too Far to hear or see. In the case of higher levels of [Advancement](Advancement.md), your ability to see and hear over long distances increases to completely inhuman distances, that would result in that individual's possible Far range to extend further Sacred Artists of a lesser Advancement.
 
 # Combat
 
-Combat in Cradle is fast and explosive, often leaving both parties wounded and bleeding. Because the deadly accuracy and power of each Sacred Artists [Techniques](Techniques.md), every Sacred Artist accumulates some damage mitigation throughout their advancement. Some are content to leverage the natural their advancement levels damage reduction, while others choose to improve their fortifications and mitigate large amounts of damage.
+Combat in Cradle is fast and explosive, often leaving both parties wounded and bleeding. Because the deadly accuracy and power of each Sacred Artist's [Techniques](Techniques.md), every Sacred Artist accumulates some damage mitigation throughout their advancement. Some are content to leverage their natural advancement level's damage reduction, while others choose to improve their fortifications and mitigate large amounts of damage.
 
 ## Speed
 
@@ -110,13 +110,13 @@ In Cradle RPG all attacks made by Sacred Artists are considered to have 100% acc
 1. If a [Technique](Techniques.md) specifies an accuracy percent other than 100%
 2. If the defender has Evasion greater than 0%
 
-Accuracy is always measure in a a percentage and represents the number that a Sacred artist must roll UNDER when making an Accuracy check. Accuracy cannot go below zero but CAN go above 100%. If a Technique or other attack would have an accuracy of 0% it is a guaranteed miss. Multiple forms of improved Accuracy stack.
+Accuracy is always measured in a percentage and represents the number that a Sacred Artist must roll UNDER when making an Accuracy check. Accuracy cannot go below zero but CAN go above 100%. If a Technique or other attack would have an accuracy of 0% it is a guaranteed miss. Multiple forms of improved Accuracy stack.
 
 Evasion is the opposing force to Accuracy. An evasive target is trying to avoid being hit and their evading talents will count towards dodging incoming attacks.
 
 Evasion also comes in the form of percentage. Evasion cannot go below 0% but CAN go above 100%. Multiple forms of Evasion stack.
 
-When calculating if an attack is capable of hitting take the Accuracy of the attacker and subtract the Evasion of the defender. If the result is 0% or less, the attack is a miss. If the result is 100% or greater the attack is a hit
+When calculating if an attack is capable of hitting, take the Accuracy of the attacker and subtract the Evasion of the defender. If the result is 0% or less, the attack is a miss. If the result is 100% or greater the attack is a hit
 
 **Example 1**:
 
@@ -155,7 +155,7 @@ During your [Attack Phase](How_To_Play.md#attack-phase) you have 3 actions you
 
 ## Phases
 
-Before Combat gets to start all engaged fighters roll to determine their [Speed](How_To_Play.md#speed). Combat can be broken down into Phases.
+Before Combat gets to start, all engaged fighters roll to determine their [Speed](How_To_Play.md#speed). Combat can be broken down into Phases.
 
 1. Ailment Phase
 2. Movement Phase
@@ -169,14 +169,14 @@ During the Ailment Phase all creatures will experience the negative effects plac
 
 | Ailment Name | Effect                                                                                                                                                                                                                                                      | Removal                                                                                                                                                                 | Notes                                                                                                                             |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Blindness    | For the next [Attack Phase](How_To_Play.md#attack-phase), [Attacks](How_To_Play.md#Mundane-Attack-Power) and [Techniques](Techniques.md) used by this Sacred Artist have a 75% chance to miss (roll a d100, if the number is 74 or lower the attack misses) | forfeiting an Attack Phase to cycle your [Madra](Madra.md) to your eyes to cleanse them of impurities                                                                   |                                                                                                                                   |
-| Bound        | Your feet are bound in place making you unable to move during [Movement Phase](How_To_Play.md#movement-phase).                                                                                                                                              | Succeed on a [Ruler Saving Throw](How_To_Play.md#ruler-saving-throws) against the opponent                                                                               |                                                                                                                                   |
+| Blindness    | For the next [Attack Phase](How_To_Play.md#attack-phase), [Attacks](How_To_Play.md#Mundane-Attack-Power) and [Techniques](Techniques.md) used by this Sacred Artist have a 75% chance to miss (roll a d100, if the number is 74 or lower the attack misses) | Forfeiting an Attack Phase to cycle your [Madra](Madra.md) to your eyes to cleanse them of impurities                                                                   |                                                                                                                                   |
+| Bound        | Your feet are bound in place making you unable to move during [Movement Phase](How_To_Play.md#movement-phase).                                                                                                                                              | Succeed on a [Ruler Saving Throw](How_To_Play.md#ruler-saving-throws) against the opponent                                                                              |                                                                                                                                   |
 | Burn X       | During the Ailment Phase this Sacred Artist takes 1d10 + X Fire damage                                                                                                                                                                                      | Use a relevant [Iron Body](Iron_Body.md) bonus or wait for the effect to expire. After suffering from the effects, the intensity will decrease by 1 every Ailment Phase | The Burn Ailment always comes with a number - or intensity - that indicates the severity and duration                             |
 | Poison X     | During the Ailment Phase this Sacred Artist takes 1d10 + X Poison damage                                                                                                                                                                                    | Use a relevant [Iron Body](Iron_Body.md) bonus or wait for the effect to expire. After suffering from the effects, the intensity will decrease by 1 every Ailment Phase | The Poison Ailment always comes with a number - or intensity - that indicates the severity and duration                           |
-| Restrained   | Your whole body is restrained against your will, and you cannot move or attack during their respective phases                                                                                                                                               | Succeed on a [Ruler Saving Throw](How_To_Play.md#ruler-saving-throws) against the opponent                                                                               | Restrained is a stronger version of Bound. A Sacred Artist who is Restrained cannot move any limbs, possibly including their head |
+| Restrained   | Your whole body is restrained against your will, and you cannot move or attack during their respective phases                                                                                                                                               | Succeed on a [Ruler Saving Throw](How_To_Play.md#ruler-saving-throws) against the opponent                                                                              | Restrained is a stronger version of Bound. A Sacred Artist who is Restrained cannot move any limbs, possibly including their head |
 ### Movement Phase
 
-During the Movement Phase all parties are allowed to move based on their [Speed](How_To_Play.md#combat-speed). The lowest Speed moves first. This allows faster Sacred Artists to move safely with more information. The faster Sacred Artist should be able to move into their preferred position and they can only do that once they know where all the slower Sacred Artists have moved to.
+During the Movement Phase, all parties are allowed to move based on their [Speed](How_To_Play.md#combat-speed). The lowest Speed moves first. This allows faster Sacred Artists to move safely with more information. The faster Sacred Artist should be able to move into their preferred position and they can only do that once they know where all the slower Sacred Artists have moved to.
 
 #### Movement
 
@@ -191,11 +191,11 @@ On your turn during the attack phase, you can unleash any of your techniques or 
 1. Declaring which technique you want to use
 2. If neccesary, roll to see if you hit your target
 3. If you hit, roll to see the final [Attack Power](How_To_Play.md#technique-attack-power) of your action
-4. The defender reduces the damage taken by their [Damage Reduction](How_To_Play.md#damage-reduction) and reduces their their [Life Force](Life_Force.md) by that amount.
+4. The defender reduces the damage taken by their [Damage Reduction](How_To_Play.md#damage-reduction) and reduces their [Life Force](Life_Force.md) by that amount.
 
 #### Damage
 
-Damage represents how much [Life Force](Life_Force.md) is lost by someone or something then they are hit with a Technique or Attack
+Damage represents how much [Life Force](Life_Force.md) is lost by someone or something when they are hit with a Technique or Attack
 
 Damage Taken = [Power of Technique or Attack] - [Damage Reduction of the defender]
 
@@ -207,7 +207,7 @@ Attack Power = [Technique](Techniques.md) Power + [Global Modifier](Global_M
 
 #### Mundane Attack Power
 
-Sacred Artists often carry weapons with them which they are able to Enforce or otherwise use to rain down destruction on their foes. When attack with a weapon the weapon's innate strength are important to the power of the attack. If a [Underlord](Advancement.md#lord) was using the weapon of a [Low Gold](Advancement.md#low-gold), the attack would be much weaker than if they used a weapon with an appropriate strength matching their own.
+Sacred Artists often carry weapons with them which they are able to Enforce or otherwise use to rain down destruction on their foes. When attacking with a weapon, the weapon's innate strength are important to the power of the attack. If a [Underlord](Advancement.md#lord) was using the weapon of a [Low Gold](Advancement.md#low-gold), the attack would be much weaker than if they used a weapon with an appropriate strength matching their own.
 
 Similarly if the inverse were to happen (a Low Gold was using the weapon of a Underlord) the weapon would do more damage than expected, but it would be impossible to control making the attackers strike more wild and uncontrollable.
 
@@ -221,6 +221,6 @@ Other Bonuses often come from Enforcer Techniques or Armor.
 
 #### Ruler Saving Throws
 
-[Ruler Techniques](Techniques.md#ruler-r) have the ability to control both people, animals, and the space around them. A Sacred Artists ability to fight being controlled is based on their will power. In order to avoid the the effects of a Ruler Technique you must make a saving throw.
+[Ruler Techniques](Techniques.md#ruler-r) have the ability to control both people, animals, and the space around them. A Sacred Artists ability to fight being controlled is based on their will power. In order to avoid the effects of a Ruler Technique you must make a saving throw.
 
 Ruler Saving Throw = 1d10 + [Global Modifier](Global_Modifier.md) + [Level Difference Modifier](Level_Difference_Modifier.md)

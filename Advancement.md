@@ -3,7 +3,7 @@ As some who follows the Sacred Arts, you will go through many physical, psycholo
 
 There are 11 stages of advancement, and anyone below a Gold is likely a child who is just starting out on their journey.
 
-Can use this page for detailed explanation [https://abidan-archives.fandom.com/wiki/Ranks](https://abidan-archives.fandom.com/wiki/Ranks)
+Can use this page for detailed explanation [https://abidan-archives.fandom.com/wiki/Ranks](https://abidan-archives.fandom.com/wiki/Ranks).
 
 # Advancement Stages
 
@@ -27,15 +27,15 @@ Children reach this stage when they are able to "open their copper sight" allowi
 
 Children and teenagers have continued to train and cycle to accumulate enough Madra and condense their core.
 
-This stage also include receiving an [Iron Body](Iron_Body.md). This can be accomplished any way, but the thoroughness and intensity of the procedure to obtain a specific Iron Body often dictates how powerful it is for a given Sacred Artist.
+This stage also includes receiving an [Iron Body](Iron_Body.md). This can be accomplished any way, but the thoroughness and intensity of the procedure to obtain a specific Iron Body often dictates how powerful it is for a given Sacred Artist.
 
 # Jade
 
-The next step in a Sacred Artist Journey is again requires condensing their core allowing them to store even more Madra.
+The next step in a Sacred Artist Journey and again requires condensing their core allowing them to store even more Madra.
 
 # Gold
 
-Sacred Artists who have reached this stage in their careers understand the nuance of advancement and designate the next three stages as sub categories leading up to the [Lord](Advancement.md#Lord) stage
+Sacred Artists who have reached this stage in their careers understand the nuance of advancement and designate the next three stages as sub categories leading up to the [Lord](Advancement.md#Lord) stage.
 
 ## Low Gold
 
@@ -50,11 +50,11 @@ High Gold is a refinement on the existing gold foundation. With this stage comes
 
 ## True Gold
 
-True gold has perfect control over their  [Gold Sign](Gold_Sign.md) and is starting to make preparations to advance to Underlord. Making it to True Gold is a great accomplishment and many leaders are respected as True Golds. Their power is not to be underestimated.
+True Gold has perfect control over their  [Gold Sign](Gold_Sign.md) and is starting to make preparations to advance to Underlord. Making it to True Gold is a great accomplishment and many leaders are respected as True Golds. Their power is not to be underestimated.
 
 # Lord
 
-Lord stages each include different manipulations of [Soulfire](Soulfire.md). Additionally each of these stages can only be reached with a specific revelation unique to an individual and a specific details about their psyche.
+Lord stages each include different manipulations of [Soulfire](Soulfire.md). Additionally each of these stages can only be reached with a specific revelation unique to an individual and specific details about their psyche.
 
 ## [Soulfire](soulfire.md)
 
@@ -62,7 +62,7 @@ As part of the Lord stages you will gain the ability to wield [Soulfire](Soulfi
 
 ## Underlord + Underlady
 
-Underlords and ladies have just opened up their Soulspace and can store [Soulfire](Soulfire.md). To reach this stage a Sacred Artist must reason out intrinsic self truths and find your Underlord Revelation
+Underlords and ladies have just opened up their Soulspace and can store [Soulfire](Soulfire.md). To reach this stage a Sacred Artist must reason out intrinsic self truths and find their Underlord Revelation
 
 ## Overlord + Overlady
 
@@ -70,7 +70,7 @@ Overlords and ladies are often directly related to the most powerful beings in t
 
 ## Archlord + Archlady
 
-Peak Lords. Have mastered their body and mind to an unparalleled level. Have Also travelled so far down a [Path](Paths.md) they have attracted the attention of higher powers and are certainly considered a threat if left unchecked.
+Peak Lords. Have mastered their body and mind to an unparalleled level. Have also travelled so far down a [Path](Paths.md) they have attracted the attention of higher powers and are certainly considered a threat if left unchecked.
 
 ## Lord Revelations
 
