@@ -29,7 +29,7 @@ The Global Modifier represents how strong you have grown over time. This a boost
 
 Sacred Artists of different [Advancements](Advancement.md) will always have a significant power difference. When two Sacred Artists of differing power levels clash the more advanced one will come out victorious most of the time. There is a small chance the lower level artist can squeak out a victory, but its difficult to do. This Level Difference Modifier gets added to any roll that the stronger party gets to make. This bonus can never go below zero.
 
-Level Difference Modifier = [your advancement level] - [your opponents advancement level] * 5
+Level Difference Modifier = ([your advancement level] - [your opponents advancement level]) * 5
 
 As an example if a True Gold launches a [Striker Technique](Techniques.md#striker-s) at a Low Gold, the True Gold will get a +10 Level Difference Modifier added to their damage roll.
 
@@ -72,8 +72,8 @@ Each encounter will have a [Challenge Rating](How_To_Play.md#challenge-rating)�
 
 You are successful in a check if your Skill Check Score is greater than or equal to the Effective Challenge Rating.
 
-Effective Challenge Rating= [Challenge Rating(How_To_Play.md#challenge-rating) + [Level Difference Modifier](Level_Difference_Modifier.md)  
-Skill Check Score= 1d10 + [Global Modifier](Global_Modifier.md) + [Level Difference Modifier](Level_Difference_Modifier.md) + Other Bonuses
+Effective Challenge Rating = [Challenge Rating](How_To_Play.md#challenge-rating) + [Level Difference Modifier](Level_Difference_Modifier.md)  
+Skill Check Score = 1d10 + [Global Modifier](Global_Modifier.md) + [Level Difference Modifier](Level_Difference_Modifier.md) + Other Bonuses
 
 Other Bonuses can come from a variety of sources, like your [Cycling Technique](Cycling_Technique.md), [Iron Body](Iron_Body.md), or any situational bonuses the GM awards you.
 
@@ -120,25 +120,25 @@ When calculating if an attack is capable of hitting, take the Accuracy of the at
 
 **Example 1**:
 
-Attackers Accuracy= 100%  
+Attackers Accuracy = 100%  
 Defenders Evasion = 0%  
 100%-0% = 100% chance to hit
 
 **Example 2**:
 
-Attackers Accuracy= 50%  
+Attackers Accuracy = 50%  
 Defenders Evasion = 30%  
 50%-30% = 20% chance to hit (The attacker must roll a d100 and have a result less than or equal 20. They can also roll a d10 and have the result less than or equal 2)
 
 **Example 3**:
 
-Attackers Accuracy= 150%  
+Attackers Accuracy = 150%  
 Defenders Evasion = 110%  
 150%-110% = 40% chance to hit (The attacker must roll a d100 and have a result less than or equal 40. They can also roll a d10 and have the result less than or equal 4)
 
 **Example 4**:
 
-Attackers Accuracy= 50%  
+Attackers Accuracy = 50%  
 Defenders Evasion = 50%  
 50%-50% = 0% chance to hit. The attack misses the target
 
