@@ -2,7 +2,7 @@
 
 ## Critical
 - [ ] Explain how a Path Manual should work
- - [ ] Re-read [How to play] (How_To_Play.md) and make sure I like everything there
+ - [ ] Re-read [How to play](How_To_Play.md) and make sure I like everything there
  - [ ] Update [README.md](README.md) with table of contents
  - [ ] Add mechanism for disciples.
  	- They can do basic chores, jobs, etc
