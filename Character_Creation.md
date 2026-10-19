@@ -3,11 +3,11 @@
 All Characters start out as Low Golds. See [Advancement](Advancement.md) for a list of all advancement stages
 
 1. **[Your Path](Paths.md)**. Create your own or select one from the most common
-2. Determine you're starting **[Life Force](Life Force.md)**
+2. Determine you're starting **[Life Force](Life_Force.md)**
     1. You can either roll **\[2d10*5+50\]** OR don't roll and use a slightly below average value of **90**
 3. Determine you're starting **[Madra](Madra.md)**
     1. You can either roll **\[2d10*5\]** OR don't roll and use a slightly below average value of **40**
-4. **[Cycling Technique](Cycling Technique.md)**(Madra Modification)
+4. **[Cycling Technique](Cycling_Technique.md)**(Madra Modification)
 5. **[Iron Body](Iron_Body.md)** (Physical Mod)
 6. **[Gold Sign](Gold_Sign.md)** (Optional if Wealthy)
 7. Choose 2 starting **[Techniques](Techniques.md)** from between
@@ -20,7 +20,7 @@ All Characters start out as Low Golds. See [Advancement](Advancement.md) for a
 
 - See [Advancement](Advancement.md).
 
-1. Distribute 4 points to hone [Techniques]((Techniques.md)
+1. Distribute 4 points to hone [Techniques](Techniques.md)
 2. Increase [Global Modifier](Global_Modifier.md) by 1 (increase by 3 when advancing from True Gold to Underlord)
 3. [Cycling Technique](Cycling_Technique.md) Bonus (If Applicable)
 4. [Iron Body](Iron_Body.md) Bonus (If Applicable)

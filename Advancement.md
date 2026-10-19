@@ -81,23 +81,29 @@ Finding the true answer to each of these questions is required to advance to the
 - Why did I first begin to follow the Sacred Arts? 
 - What pushed me forward?
 
+This is **decided by the player** and is the sum of their back story. It's a declaration to the table about the motivations if your past.
+
 **Overlord Revelation**
 
 - Who am I today? 
 - How do others see me?
+
+This is **decided by all the other players** at the table. The player must discover their own revelation, but  the other players at the table must collectively see you that way for it to be true.
 
 **Archlord Revelation**
 
 - Where am I going? 
 - Who will I become, as a Sacred Artist?
 
+This is **decided by the player** and is a promise to the Game Master what kind of person you want to me. Acting in a way unaligned with this promise should be penalized by the GM
+
 # Sage
 
-Sage is someone who has manifested an Icon of Authority. Often a peak Archlord or lady.
+Sage is someone who has manifested an Icon of [Authority](Authority.md). Often a peak Archlord or lady.
 
 # Herald
 
-Advancement occurs typically by fusing with one’s own Remnant, thus becoming half physical and half spirit, but there have been other more unique cases.
+Advancement occurs typically by fusing with one’s own Remnant, thus becoming half physical and half spirit.
 
 # Monarch
 
