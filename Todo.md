@@ -20,7 +20,7 @@
 	- [ ] debuffer and/or buffer
 	- [ ] Ailments, DOT. Might fit better into the controller path
 - [ ] Signature Weapons for each path? At least for Cloud **Hammer** and and Stellar **Spear**
-- [ ] Lord revelations are decided by fellow players
+
 
 # Complete
 - [x] Add H1 headers at the top of the page
@@ -31,4 +31,5 @@
 	- [x] Pill Refining
 	- [x] Growing Spirit fruit and plant 
 	- [x] Bounty Hunting
-- [x] Give all paths Mundane attack damage. 
+- [x] Give all paths Mundane attack damage.
+- [x] Lord revelations are decided by fellow players
