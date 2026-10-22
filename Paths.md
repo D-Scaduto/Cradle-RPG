@@ -1,5 +1,5 @@
 # Paths
-Paths should represent a philosophy that your character believes in and follows with the knowledge and faith they will get stronger by "following this path"
+Paths should represent a philosophy that your character believes in and follows with the knowledge and faith they will get stronger by "following this path".
 
 Paths can be as general or specific as you want them to be. A more general Path might be good for utility, And a more specific Path might be good to focus your character's talents and allow them to go grow stronger with each advancement.
 
